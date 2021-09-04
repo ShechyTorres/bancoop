@@ -1,2 +1,2 @@
 # BANCOOP - STEICY DE LA TORRE
-- (Página de Bancoop)[html/index.html]
+- (Página de Bancoop)[index.html]
